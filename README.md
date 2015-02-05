@@ -1,2 +1,2 @@
-# py
-python courses
+# cbt-python
+cbt python courses
